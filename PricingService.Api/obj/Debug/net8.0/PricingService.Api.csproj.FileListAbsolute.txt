@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache

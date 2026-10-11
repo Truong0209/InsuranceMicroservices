@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache

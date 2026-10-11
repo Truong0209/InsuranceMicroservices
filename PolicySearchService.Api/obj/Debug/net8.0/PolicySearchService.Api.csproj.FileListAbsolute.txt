@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\refint\PolicySearchService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\ref\PolicySearchService.Api.dll

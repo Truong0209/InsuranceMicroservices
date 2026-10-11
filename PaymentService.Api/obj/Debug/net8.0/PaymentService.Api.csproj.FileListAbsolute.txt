@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\refint\PaymentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService.Api\obj\Debug\net8.0\ref\PaymentService.Api.dll

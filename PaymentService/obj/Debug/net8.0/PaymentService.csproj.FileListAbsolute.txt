@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\refint\ProductService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ref\ProductService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.AssemblyReference.cache

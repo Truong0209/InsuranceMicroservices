@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\bin\Debug\net8.0\DocumentService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\refint\DocumentService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\DocumentService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\DocumentService.Api\obj\Debug\net8.0\ref\DocumentService.Api.dll

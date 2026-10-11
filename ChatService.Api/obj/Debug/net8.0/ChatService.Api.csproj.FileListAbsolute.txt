@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.deps.json
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\bin\Debug\net8.0\ChatService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\refint\ChatService.Api.dll
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.pdb
+C:\Users\Admin\source\repos\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ref\ChatService.Api.dll
