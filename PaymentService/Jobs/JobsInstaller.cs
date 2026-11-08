@@ -1,3 +1,4 @@
+using System;
 using Hangfire;
 using Hangfire.Logging.LogProviders;
 using Hangfire.PostgreSql;
@@ -13,19 +14,37 @@ public static class JobsInstaller
         BackgroundJobsConfig jobsConfig)
     {
         services.AddSingleton(jobsConfig);
-        services.AddHangfire(config =>
+        try
         {
-            config.UsePostgreSqlStorage(jobsConfig.HangfireConnectionStringName);
-            config.UseLogProvider(new ColouredConsoleLogProvider());
-        });
-        services.AddScoped<InPaymentRegistrationJob, InPaymentRegistrationJob>();
-        services.AddHangfireServer();
+            using (var conn = new Npgsql.NpgsqlConnection(jobsConfig.HangfireConnectionStringName))
+            {
+                conn.Open();
+            }
+            services.AddHangfire(config =>
+            {
+                config.UsePostgreSqlStorage(jobsConfig.HangfireConnectionStringName);
+                config.UseLogProvider(new ColouredConsoleLogProvider());
+            });
+            services.AddScoped<InPaymentRegistrationJob, InPaymentRegistrationJob>();
+            services.AddHangfireServer();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[Hangfire Notice] PostgreSQL connection failed: {ex.Message}. Hangfire server skipped in standalone mode.");
+        }
         return services;
     }
 
     public static void UseBackgroundJobs(this IApplicationBuilder app)
     {
-        app.UseHangfireDashboard();
-        RecurringJob.AddOrUpdate<InPaymentRegistrationJob>(j => j.Run(), "*/1 * * * *");
+        try
+        {
+            app.UseHangfireDashboard();
+            RecurringJob.AddOrUpdate<InPaymentRegistrationJob>(j => j.Run(), "*/1 * * * *");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[Hangfire Notice] Background jobs not started: {ex.Message}");
+        }
     }
 }

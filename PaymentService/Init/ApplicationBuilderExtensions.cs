@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -8,10 +8,20 @@ public static class ApplicationBuilderExtensions
 {
     public static async Task UseInitializer(this IApplicationBuilder app)
     {
-        using (var scope = app.ApplicationServices.CreateScope())
+        try
         {
-            var initializer = scope.ServiceProvider.GetService<DataLoader>();
-            await initializer.Seed();
+            using (var scope = app.ApplicationServices.CreateScope())
+            {
+                var initializer = scope.ServiceProvider.GetService<DataLoader>();
+                if (initializer != null)
+                {
+                    await initializer.Seed();
+                }
+            }
+        }
+        catch (System.Exception ex)
+        {
+            System.Console.WriteLine($"[Payment Init Notice] Data loader skipped: {ex.Message}");
         }
     }
 }

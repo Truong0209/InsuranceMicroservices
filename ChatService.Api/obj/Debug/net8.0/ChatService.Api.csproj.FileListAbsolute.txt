@@ -10,3 +10,4 @@ E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ChatService.Ap
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\refint\ChatService.Api.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.pdb
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ref\ChatService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ChatService.Api\obj\Debug\net8.0\ChatService.Api.csproj.AssemblyReference.cache
