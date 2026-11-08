@@ -1,65 +1,76 @@
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.staticwebassets.endpoints.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.exe
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.deps.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.runtimeconfig.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.pdb
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\MediatR.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\scopedcss\bundle\ProductService.styles.css
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductS.A0FC5512.Up2Date
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\refint\ProductService.dll
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.pdb
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ref\ProductService.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.Development.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.docker.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\hosting.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.staticwebassets.endpoints.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.exe
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.deps.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.runtimeconfig.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Azure.Core.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Azure.Identity.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Ensure.That.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\MediatR.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Memory.Data.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.Api.pdb
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\rpswa.dswa.cache.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
@@ -84,58 +95,3 @@ E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.pdb
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\obj\Debug\net8.0\ref\ProductService.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\appsettings.docker.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\hosting.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Azure.Core.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Azure.Identity.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Ensure.That.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Newtonsoft.Json.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Common.Http.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Drawing.Common.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Memory.Data.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Runtime.Caching.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.Api.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService\bin\Debug\net8.0\ProductService.Api.pdb

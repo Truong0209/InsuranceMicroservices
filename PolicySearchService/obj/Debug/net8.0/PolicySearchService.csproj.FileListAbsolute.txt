@@ -1,11 +1,43 @@
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfo.cs
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\appsettings.Development.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\appsettings.docker.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\appsettings.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\hosting.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.staticwebassets.endpoints.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.exe
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.runtimeconfig.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\EasyNetQ.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Elastic.Clients.Elasticsearch.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Elastic.Transport.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\GlobalExceptionHandler.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\MediatR.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Common.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicyService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicyService.Api.pdb
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.AssemblyReference.cache
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\rpswa.dswa.cache.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,20 +47,6 @@ E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchSe
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cs
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cache
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.sourcelink.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\appsettings.Development.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\appsettings.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.staticwebassets.endpoints.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.exe
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.deps.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.runtimeconfig.json
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.pdb
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\MediatR.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\MediatR.Contracts.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

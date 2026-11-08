@@ -1,4 +1,4 @@
-namespace PolicyService.Api.Commands.Dtos;
+﻿namespace PolicyService.Api.Commands.Dtos;
 
 public class PersonDto
 {
