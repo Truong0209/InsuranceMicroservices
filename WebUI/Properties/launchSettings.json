@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WebUI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "#/chat?demo=1",
+      "applicationUrl": "http://127.0.0.1:8081",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

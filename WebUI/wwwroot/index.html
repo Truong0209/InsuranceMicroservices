@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Insurance Sales Portal - Microservices</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Top Navigation Bar matching exactly the screenshot -->
+    <header class="top-nav">
+      <nav id="nav">
+        <a href="#/" id="nav-home">Home</a> |
+        <a href="#/products" id="nav-products">Products</a> |
+        <a href="#/policies" id="nav-policies">Policies</a> |
+        <a href="#/dashboard" id="nav-dashboard">Dashboard</a> |
+        <a href="#/chat?demo=1" id="nav-chat">Chat for Agents</a> |
+        <a href="#/account" id="nav-account">Account</a>
+      </nav>
+    </header>
+
+    <main class="main-container">
+      <!-- 1. CHAT FOR AGENTS VIEW (EXACTLY MATCHING USER'S SCREENSHOT) -->
+      <section id="view-chat" class="page-view" style="display: none;">
+        <div class="chat-header-row">
+          <div>
+            <h1 class="chat-title">Chat trực tuyến</h1>
+            <p class="chat-subtitle">Trao đổi nhanh giữa nhân viên tư vấn bảo hiểm.</p>
+          </div>
+          <div class="badge-demo">Chế độ demo</div>
+        </div>
+
+        <div class="chat-box-card">
+          <div class="chat-messages-container" id="chat-messages">
+            <div class="chat-bubble system-bubble">
+              <div class="bubble-meta">Hệ thống &middot; <span id="sys-time">15:50</span></div>
+              <div class="bubble-content">Bạn đang ở phòng chat demo. Hãy gửi tin nhắn để trải nghiệm.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="chat-input-row">
+          <input type="text" id="chat-input" class="chat-input-field" placeholder="Nhập nội dung tin nhắn..." />
+          <button id="chat-send-btn" class="chat-send-btn">Gửi</button>
+        </div>
+      </section>
+
+      <!-- 2. PRODUCTS VIEW (PRODUCT SERVICE) -->
+      <section id="view-products" class="page-view" style="display: none;">
+        <div class="section-header">
+          <div>
+            <h1 class="page-title">Danh mục sản phẩm bảo hiểm</h1>
+            <p class="page-subtitle">Dữ liệu từ microservice ProductService (Cổng 5030)</p>
+          </div>
+          <button class="btn btn-outline" onclick="loadProducts()"><i class="fa fa-sync"></i> Tải lại</button>
+        </div>
+        <div id="products-grid" class="products-grid">
+          <div class="loading-spinner"><i class="fa fa-circle-notch fa-spin"></i> Đang tải dữ liệu sản phẩm từ ProductService...</div>
+        </div>
+      </section>
+
+      <!-- 3. ACCOUNT / PAYMENT VIEW (PAYMENT SERVICE) -->
+      <section id="view-account" class="page-view" style="display: none;">
+        <div class="section-header">
+          <div>
+            <h1 class="page-title">Thanh toán & Quản lý tài khoản hợp đồng</h1>
+            <p class="page-subtitle">Dữ liệu từ microservice PaymentService (Cổng 5070)</p>
+          </div>
+        </div>
+
+        <div class="account-card">
+          <div class="search-form">
+            <label for="policy-number-input">Nhập mã hợp đồng bảo hiểm:</label>
+            <div class="input-group">
+              <input type="text" id="policy-number-input" value="POLICY_1" placeholder="Ví dụ: POLICY_1, POLICY_2, POLICY_3" />
+              <button class="btn btn-primary" onclick="lookupAccount()"><i class="fa fa-search"></i> Tra cứu tài khoản</button>
+            </div>
+            <div class="hint-text">Gợi ý hợp đồng mẫu có sẵn: <code>POLICY_1</code> (Tim Jones), <code>POLICY_2</code> (Mike Zorn), <code>POLICY_3</code> (Judith Powell)</div>
+          </div>
+
+          <div id="account-result" class="account-details" style="display: none;">
+            <div class="account-grid">
+              <div class="account-stat">
+                <span class="stat-label">Mã hợp đồng:</span>
+                <span class="stat-value" id="acc-policy-no">POLICY_1</span>
+              </div>
+              <div class="account-stat">
+                <span class="stat-label">Số tài khoản thanh toán:</span>
+                <span class="stat-value code-font" id="acc-account-no">231232132131</span>
+              </div>
+              <div class="account-stat">
+                <span class="stat-label">Số dư hiện tại:</span>
+                <span class="stat-value price" id="acc-balance">0.00 USD</span>
+              </div>
+              <div class="account-stat">
+                <span class="stat-label">Trạng thái:</span>
+                <span class="badge badge-success"><i class="fa fa-check-circle"></i> Đang hiệu lực</span>
+              </div>
+            </div>
+
+            <div class="payment-action-box">
+              <h3>Thực hiện đóng phí thanh toán</h3>
+              <div class="input-group" style="margin-top: 10px;">
+                <input type="number" id="pay-amount" value="150" min="10" step="10" placeholder="Số tiền đóng phí ($)" />
+                <button class="btn btn-success" onclick="makePayment()"><i class="fa fa-credit-card"></i> Nạp tiền thanh toán ngay</button>
+              </div>
+              <div id="pay-alert" class="alert alert-success" style="display: none; margin-top: 15px;"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. POLICIES VIEW -->
+      <section id="view-policies" class="page-view" style="display: none;">
+        <div class="section-header">
+          <div>
+            <h1 class="page-title">Quản lý hợp đồng bảo hiểm (Policies)</h1>
+            <p class="page-subtitle">Dữ liệu từ microservice PolicyService (Cổng 5050) & PolicySearchService</p>
+          </div>
+        </div>
+        <div class="table-container">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Mã HĐ</th>
+                <th>Chủ hợp đồng</th>
+                <th>Gói bảo hiểm</th>
+                <th>Thời hạn</th>
+                <th>Phí bảo hiểm</th>
+                <th>Trạng thái</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>POL-2026-001</strong></td>
+                <td>Nguyễn Văn A</td>
+                <td>Safe Traveller (TRI)</td>
+                <td>01/01/2026 - 01/01/2027</td>
+                <td>$250.00</td>
+                <td><span class="badge badge-success">Active</span></td>
+              </tr>
+              <tr>
+                <td><strong>POL-2026-002</strong></td>
+                <td>Trần Thị B</td>
+                <td>Happy House (HSI)</td>
+                <td>15/02/2026 - 15/02/2027</td>
+                <td>$480.00</td>
+                <td><span class="badge badge-success">Active</span></td>
+              </tr>
+              <tr>
+                <td><strong>POL-2026-003</strong></td>
+                <td>Lê Văn C</td>
+                <td>Happy Driver (CAR)</td>
+                <td>10/03/2026 - 10/03/2027</td>
+                <td>$320.00</td>
+                <td><span class="badge badge-success">Active</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 5. DASHBOARD VIEW -->
+      <section id="view-dashboard" class="page-view" style="display: none;">
+        <div class="section-header">
+          <div>
+            <h1 class="page-title">Bảng điều khiển kinh doanh (Dashboard)</h1>
+            <p class="page-subtitle">Tổng quan các chỉ số doanh số bảo hiểm</p>
+          </div>
+        </div>
+        <div class="dashboard-grid">
+          <div class="kpi-card">
+            <div class="kpi-title">Tổng hợp đồng đã bán</div>
+            <div class="kpi-value">1,280</div>
+            <div class="kpi-trend up"><i class="fa fa-arrow-up"></i> +12% so với tháng trước</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-title">Tổng doanh số thu phí</div>
+            <div class="kpi-value">$468,500</div>
+            <div class="kpi-trend up"><i class="fa fa-arrow-up"></i> +8.5% mục tiêu quý</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-title">Đại lý đang hoạt động</div>
+            <div class="kpi-value">45 đại lý</div>
+            <div class="kpi-trend"><i class="fa fa-users"></i> Đang online tư vấn</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 6. HOME VIEW -->
+      <section id="view-home" class="page-view">
+        <div class="home-hero">
+          <h1>Hệ thống Quản lý Bán Bảo hiểm Microservices</h1>
+          <p class="hero-desc">Được xây dựng trên nền tảng .NET Core theo kiến trúc Bounded Context DDD</p>
+          <div class="home-services-grid">
+            <div class="service-box" onclick="location.hash='#/chat?demo=1'">
+              <div class="icon-circle bg-blue"><i class="fa fa-comments"></i></div>
+              <h3>Chat trực tuyến</h3>
+              <p>ChatService (SignalR Hub cổng 4099)</p>
+              <span class="btn-link">Mở Chat &rarr;</span>
+            </div>
+            <div class="service-box" onclick="location.hash='#/account'">
+              <div class="icon-circle bg-green"><i class="fa fa-credit-card"></i></div>
+              <h3>Thanh toán</h3>
+              <p>PaymentService (Document DB cổng 5070)</p>
+              <span class="btn-link">Tra cứu số dư &rarr;</span>
+            </div>
+            <div class="service-box" onclick="location.hash='#/products'">
+              <div class="icon-circle bg-purple"><i class="fa fa-shield-alt"></i></div>
+              <h3>Danh mục sản phẩm</h3>
+              <p>ProductService (In-Memory DB cổng 5030)</p>
+              <span class="btn-link">Xem sản phẩm &rarr;</span>
+            </div>
+            <div class="service-box" onclick="location.hash='#/policies'">
+              <div class="icon-circle bg-orange"><i class="fa fa-file-contract"></i></div>
+              <h3>Chính sách & Hợp đồng</h3>
+              <p>PolicyService & PolicySearchService</p>
+              <span class="btn-link">Xem hợp đồng &rarr;</span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Insurance Microservices LAB &copy; 2026 - Môn Kiến trúc thiết kế phần mềm</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
