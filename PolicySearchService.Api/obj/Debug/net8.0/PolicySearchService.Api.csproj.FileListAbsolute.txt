@@ -9,3 +9,15 @@ C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\D
 C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\refint\PolicySearchService.Api.dll
 C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.pdb
 C:\Users\Admin\source\repos\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\ref\PolicySearchService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\bin\Debug\net8.0\PolicySearchService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfoInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.AssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.csproj.CoreCompileInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.sourcelink.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\refint\PolicySearchService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\PolicySearchService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PolicySearchService.Api\obj\Debug\net8.0\ref\PolicySearchService.Api.dll

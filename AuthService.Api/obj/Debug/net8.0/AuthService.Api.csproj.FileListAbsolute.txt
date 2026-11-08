@@ -9,3 +9,15 @@ C:\Users\Admin\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net
 C:\Users\Admin\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
 C:\Users\Admin\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
 C:\Users\Admin\source\repos\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.sourcelink.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll

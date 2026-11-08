@@ -10,3 +10,16 @@ C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\
 C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.pdb
 C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ref\ProductService.Api.dll
 C:\Users\Admin\source\repos\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.AssemblyReference.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.AssemblyReference.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfoInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.CoreCompileInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.sourcelink.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\refint\ProductService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\ProductService.Api\obj\Debug\net8.0\ref\ProductService.Api.dll

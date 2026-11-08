@@ -42,3 +42,41 @@ C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.pdb
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.genruntimeconfig.cache
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService\obj\Debug\net8.0\ref\PricingService.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\appsettings.Development.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\appsettings.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.staticwebassets.endpoints.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.exe
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.runtimeconfig.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\PricingService.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\MediatR.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.csproj.AssemblyReference.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfoInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.csproj.CoreCompileInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.MvcApplicationPartsAssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.MvcApplicationPartsAssemblyInfo.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.sourcelink.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\scopedcss\bundle\PricingService.styles.css
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\staticwebassets.development.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\swae.build.ex.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingS.6EB92AD7.Up2Date
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\refint\PricingService.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\PricingService.genruntimeconfig.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService\obj\Debug\net8.0\ref\PricingService.dll

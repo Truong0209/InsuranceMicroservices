@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgXxyZsmm5U=",
+  "dgSpecHash": "R49UiwZJmqc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PolicySearchService.Api\\PolicySearchService.Api.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PolicySearchService.Api\\PolicySearchService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -10,3 +10,16 @@ C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll
 C:\Users\Admin\source\repos\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.sourcelink.json
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+E:\thiet kê kien truc thay XUAN BT TRUONG\InsuranceMicroservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj": {}
+    "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj": {
+    "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
+        "projectUniqueName": "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
         "projectName": "PaymentService.Api",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\InsuranceMicroservices\\PaymentService.Api\\obj\\",
+        "projectPath": "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "E:\\thiet kê kien truc thay XUAN BT TRUONG\\InsuranceMicroservices\\PaymentService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,19 +45,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
             "MediatR": {
               "target": "Package",
-              "version": "[14.2.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.1.0, )"
+              "version": "[12.3.0, )"
             }
           },
           "imports": [
@@ -70,12 +72,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
